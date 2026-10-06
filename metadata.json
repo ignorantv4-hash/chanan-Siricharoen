@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกข้อมูลปฐมพยาบาล Walk Run Bike 12",
+  "description": "ระบบบันทึกข้อมูลและเวชระเบียนผู้เข้ารับการปฐมพยาบาล โครงการแสงนำใจไทยทั้งชาติ เดิน วิ่ง ปั่น ป้องกันอัมพาต ครั้งที่ 12 เฉลิมพระเกียรติ (First Aid Medical Record)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
